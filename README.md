@@ -36,7 +36,7 @@ Estudante | Desenvolvedor FrontEnd | Web
   <a href="https://www.linkedin.com/in/igor-melo-18995623b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="100"/>
   </a>
-  <a href="">
+  <a href="https://mail.google.com/mail/u/1/#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="100"/>
   </a>
   <a href="">
