@@ -23,7 +23,6 @@ Estudante | Desenvolvedor FrontEnd | Web
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="100"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="100"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" width="100" height="100"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="100" height="100"/>
 
 </div>
 
@@ -36,7 +35,7 @@ Estudante | Desenvolvedor FrontEnd | Web
   <a href="https://www.linkedin.com/in/igor-melo-18995623b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="100"/>
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
+  <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="100"/>
   </a>
   <a href="">
