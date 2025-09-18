@@ -33,7 +33,7 @@ Estudante | Desenvolvedor FrontEnd | Web
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <a href="">
+  <a href="https://www.linkedin.com/in/igor-melo-18995623b">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="100"/>
   </a>
   <a href="">
@@ -42,7 +42,7 @@ Estudante | Desenvolvedor FrontEnd | Web
   <a href="">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="100"/>
   </a>
-  <a href="/badges#credly">
+  <a href="https://www.credly.com/users/igor-guilherme-dos-reis-melo/edit#credly">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" width="100" height="100"/>
   </a>
 
