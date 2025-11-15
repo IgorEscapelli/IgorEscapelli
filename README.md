@@ -3,11 +3,9 @@
 | Desenvolvedor FrontEnd | Web 
 ---
 
-## 📌 Sobre mim  
-- 🔹 Tenho 24 anos  
+## 📌 Sobre mim   
 - 📍 Sou de São João da Boa Vista, SP  
-- 🎓 Estudo Ciência da Computação - Unifeob
-- 💻 Técnologo em Analise e Desenvolvimento de Sistema UNIFEOB
+- 💻 Bacharel Ciencias da Computação UNIFEOB
 
 ---
 
