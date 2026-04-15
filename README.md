@@ -31,16 +31,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
   </a>
 
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:igogreismelo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
   </a>
 
-  <a href="https://github.com/seuusuario" target="_blank">
+  <a href="https://github.com/IgorEscapelli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="150"/>
-  </a>
-
-  <a href="https://www.credly.com/users/igor-guilherme-dos-reis-melo" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" width="150"/>
   </a>
 
 </div>
