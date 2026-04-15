@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
   </a>
 
-  <a href="mailto:igogreismelo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
-  </a>
+<a href="mailto:igogreismelo@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Igor,%20vi%20seu%20perfil%20e%20gostaria%20de%20falar%20com%20você." target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
+</a>
 
   <a href="https://github.com/IgorEscapelli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="150"/>
