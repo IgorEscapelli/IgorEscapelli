@@ -5,7 +5,7 @@
 
 ## 📌 Sobre mim   
 - 📍 Sou de São João da Boa Vista, SP  
-- 💻 Bacharel Ciencias da Computação UNIFEOB
+- 💻 Bacharel Ciencias da Computação 
 
 ---
 
