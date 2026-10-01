@@ -1,6 +1,6 @@
 # Olá sou o Igor Guilherme dos Reis Melo
 
-| Desenvolvedor FrontEnd | Web 
+| Desenvolvedor Web | 
 ---
 
 ## 📌 Sobre mim   
